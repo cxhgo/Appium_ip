@@ -1,0 +1,2 @@
+requests==2.22.0
+Appium_Python_Client==2.1.0
